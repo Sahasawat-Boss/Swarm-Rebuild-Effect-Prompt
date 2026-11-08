@@ -1,5 +1,7 @@
 # Swarm Rebuild Effect — Prompt สำหรับใส่ในเว็บไหนก็ได้
 
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/62488fde-04de-4b4b-94de-1ab85335ce69" />
+
 > วิธีใช้: copy ตั้งแต่ `## PROMPT` ลงไป แล้วส่งให้ AI (Claude / Cursor / Copilot) พร้อมโปรเจกต์
 > แก้ค่าใน `[วงเล็บเหลี่ยม]` ก่อนส่ง ถ้าไม่แก้ AI จะใช้ค่า default
 > โค้ดอ้างอิง (vanilla JS) อยู่ท้ายไฟล์ เอาไปใช้ตรงๆ ได้เลย หรือให้ AI port เป็น React/Vue ก็ได้
